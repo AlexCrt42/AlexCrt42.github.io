@@ -4,15 +4,6 @@ body {
     padding: 0;
     background-color: #f2f2f2;
 }
-
-.contenu {
-    width: 25cm;
-    height: 40cm;
-    margin: 1cm auto;
-    border: 2px solid #ccc; /* Bordure de la feuille */
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Ombre légère */
-}
-
 h1, h2 {
     color: #333;
 }
@@ -48,6 +39,7 @@ h1, h2 {
 }
 
 .entête {
+    text-align: center;
     padding: 20px 0;
     background-color: grey;
 }
