@@ -38,6 +38,11 @@ h1, h2 {
     color: white;
 }
 
+#Loisir_info {
+    background-color: green;
+    color: white;
+}
+
 .entête {
     text-align: center;
     padding: 20px 0;
