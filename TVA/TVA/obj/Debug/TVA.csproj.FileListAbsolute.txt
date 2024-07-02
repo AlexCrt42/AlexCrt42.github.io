@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\TVA\TVA\bin\Debug\TVA.exe.config
+C:\Users\Admin\Desktop\TVA\TVA\bin\Debug\TVA.exe
+C:\Users\Admin\Desktop\TVA\TVA\bin\Debug\TVA.pdb
+C:\Users\Admin\Desktop\TVA\TVA\obj\Debug\TVA.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\TVA\TVA\obj\Debug\TVA.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\TVA\TVA\obj\Debug\TVA.frmTVA.resources
+C:\Users\Admin\Desktop\TVA\TVA\obj\Debug\TVA.Properties.Resources.resources
+C:\Users\Admin\Desktop\TVA\TVA\obj\Debug\TVA.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\TVA\TVA\obj\Debug\TVA.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\TVA\TVA\obj\Debug\TVA.exe
+C:\Users\Admin\Desktop\TVA\TVA\obj\Debug\TVA.pdb
